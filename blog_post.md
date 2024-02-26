@@ -1,5 +1,5 @@
 # Stroke Prediction Using Machine Learning
-![banner](images/dataset-cover.jpeg)
+![banner](images/dataset-cover.jpg)
 
 Machine Learning tool to predict risk of having stroke.
 
