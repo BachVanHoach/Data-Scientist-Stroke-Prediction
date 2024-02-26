@@ -47,3 +47,8 @@ The relationship between age and stroke is positive. The older the age, the high
 We can see that the correlation between `age` and `stroke` and `married` is greater than 0.7.
 
 ![correlation](images/correlation.png)
+
+## Conclusion
+- Dataset is imbalanced in `stroke` feature.
+- The ratio of stroke patients to non-stroke patients in this dataset is 1:24. It is not the same ratio in the real world. The ratio of stroke patients to non-stroke patients in the real world is 1:6.
+- The relationship between age and stroke is positive. The older the age, the higher the risk of stroke.
