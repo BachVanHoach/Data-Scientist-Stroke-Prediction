@@ -6,7 +6,7 @@ Repo Github:
 
 Link blog: 
 
-![banner](images/dataset-cover.jpeg)
+![banner](images/dataset-cover.jpg)
 
 
 ## Domain Background
