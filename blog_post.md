@@ -3,7 +3,7 @@
 
 Machine Learning tool to predict risk of having stroke.
 
-Repo Github: https://github.com/vnk8071/stroke-prediction
+Repo Github: 
 
 ## Domain Background
 
