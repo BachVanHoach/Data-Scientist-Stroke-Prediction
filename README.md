@@ -4,7 +4,7 @@ Machine Learning tool to predict risk of having stroke.
 
 Repo Github: 
 
-Link blog: 
+Link blog: https://github.com/BachVanHoach/Data-Scientist-Stroke-Prediction/blob/main/blog_post.md
 
 ![banner](images/dataset-cover.jpg)
 
