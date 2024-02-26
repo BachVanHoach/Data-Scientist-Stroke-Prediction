@@ -37,7 +37,7 @@ To run the code and reproduce the results of this project, follow these steps:
    pip install -r requirements.txt
    ```
 
-3. Run the provided Jupyter Notebook (`stroke_prediction.ipynb`) in a Python environment such as Anaconda or Jupyter Notebook. The notebook contains the code for data preprocessing, model training, evaluation, and testing.
+3. Run the provided Jupyter Notebook (`writing_data_scientist_blog.ipynb`) in a Python environment such as Anaconda or Jupyter Notebook. The notebook contains the code for data preprocessing, model training, evaluation, and testing.
 
 ## Usage
 
@@ -45,7 +45,7 @@ To use the code and apply the trained model for stroke prediction, follow these 
 
 1. Ensure that you have completed the installation steps mentioned above.
 
-2. Open the Jupyter Notebook (`stroke_prediction.ipynb`) and execute the code cells sequentially.
+2. Open the Jupyter Notebook (`writing_data_scientist_blog.ipynb`) and execute the code cells sequentially.
 
 3. Follow the instructions provided in the notebook to load the dataset, preprocess the data, train the model, and evaluate its performance.
 
